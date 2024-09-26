@@ -9,4 +9,4 @@
 
 ---
 
-Updated by [rahul](github.com/rnambs)
+Updated by [rahul](github.com/rnambs). Reach out to our in-house AI expert **[kj](github.com/kjaisingh)**
