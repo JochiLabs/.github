@@ -5,6 +5,8 @@
 - [Website](www.jochi.com)
 - [Twitter](www.x.com/usejochi)
 - [LinkedIn](https://www.linkedin.com/company/jochi)
+- [Facebook](https://www.facebook.com/usejochi/)
+- [Instagram](https://www.instagram.com/jochi/)
 - Email: contact[at]jochi.com
 
 ---
