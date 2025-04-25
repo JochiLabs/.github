@@ -9,7 +9,7 @@
 - [Instagram](https://www.instagram.com/jochi/)
 - Email: contact[at]jochi.com
 
-For educators and tech directors interested in collaborating with Jochi, reach out to **rahul[at]jochi[dot]com**.
-For more questions, reach out to our in-house AI expert, **[kj](https://www.github.com/kjaisingh)**.
+For educators and tech directors interested in collaborating with Jochi, reach out to **rahul[at]jochi.com**
+
 ---
-Last updated on Oct 14 by [rahul](github.com/rnambs).
+Last updated April 2025 by [rahul](github.com/rnambs).
